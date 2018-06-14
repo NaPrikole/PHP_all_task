@@ -1,0 +1,100 @@
+body
+{
+  background-color: #222;
+}
+
+form
+{
+  margin-bottom: 0;
+}
+
+.h2-formTmp
+{
+  font-size: 40px;
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+.tableTmp
+{
+  border: solid 7px #1e90ff;
+  border-radius: 7px;
+  width : 77%;
+  color: #ff8c00;
+  font-size: 25px;
+  font-style: italic;
+  font-family: sans-serif;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+.formTmp
+{
+  color: #1e90ff;
+}
+
+.formTmp form
+{
+  padding-left: 35%;
+  font-size: 25px;
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+form input
+{
+  border-radius: 3px;
+  font-size: 25px;
+  font-weight: 600;
+  margin-top: 5%;
+  width: 50%;
+  /* background-color: #ff8c00; */
+}
+
+#fileSelect
+{
+  color: #ff8c00;
+  font-size: 20px;
+}
+
+.del-button
+{
+  color: #1e90ff;
+  margin-bottom: 8%;
+  margin-top: 5%;
+  font-weight: 600;
+  font-style: italic;
+  background-color: #000;
+  border-radius: 7px;
+  padding: 7px;
+  font-size: 18px;
+}
+
+.success
+{
+  width : 77%;
+  background-color: #98FB98;
+  margin: 0 auto;
+  color: #2F4F4F;
+  font-size: 25px;
+  font-style: italic;
+  font-family: sans-serif;
+  border-radius: 5px;
+  padding: 2px;
+  text-align: center;
+}
+
+.errors
+{
+  width : 77%;
+  background-color: #FF8C00;
+  margin: 0 auto;
+  color: #2F4F4F;
+  font-size: 25px;
+  font-style: italic;
+  font-family: sans-serif;
+  border-radius: 5px;
+  padding: 5px;
+  text-align: center;
+}
